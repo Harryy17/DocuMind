@@ -1,4 +1,4 @@
-# 🧠 RAG-Agent-
+# 🧠 DocuMind-
 > **Local Agentic RAG System with FastAPI & Streamlit**
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
@@ -42,3 +42,4 @@ Pull the required models:
 ```bash
 ollama pull llama3
 ollama pull nomic-embed-text
+
