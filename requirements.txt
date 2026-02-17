@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pypdf
+chromadb
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-core==0.3.0
+langchain-ollama
+langchain-chroma
+langgraph
